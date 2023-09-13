@@ -1,0 +1,11 @@
+---
+title: "My Research Notebook"
+---
+
+# Introduction
+
+This is my research notebook.
+
+```{r}
+# R code block
+plot(1:10)
